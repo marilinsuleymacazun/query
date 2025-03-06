@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\",
+  "WorkspaceRootPath": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|c:\\users\\marilin\\desktop\\algoritmo\\query3196376\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|c:\\users\\marilin\\desktop\\practica 3\\query3196376\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|solutionrelative:sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|c:\\users\\marilin\\desktop\\algoritmo\\query3196376\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|c:\\users\\marilin\\desktop\\practica 3\\query3196376\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|solutionrelative:sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|c:\\users\\marilin\\desktop\\algoritmo\\query3196376\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8E40C0B8-4EA9-490C-9609-BF8F6A7CDE56}|query3196376.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -22,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionVariable.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\SessionVariable.aspx.cs",
+              "RelativeDocumentMoniker": "SessionVariable.aspx.cs",
+              "ToolTip": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\SessionVariable.aspx.cs",
+              "RelativeToolTip": "SessionVariable.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:27:10.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -33,47 +51,47 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SessionVariable.aspx",
-              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\SessionVariable.aspx",
+              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\SessionVariable.aspx",
               "RelativeDocumentMoniker": "SessionVariable.aspx",
-              "ToolTip": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\SessionVariable.aspx",
+              "ToolTip": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\SessionVariable.aspx",
               "RelativeToolTip": "SessionVariable.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-03-06T01:06:03.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "WebForm1.aspx.cs",
-              "ToolTip": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\WebForm1.aspx.cs",
               "RelativeToolTip": "WebForm1.aspx.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T01:02:43.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WebForm1.aspx",
-              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebForm1.aspx",
-              "ToolTip": "C:\\Users\\Marilin\\Desktop\\algoritmo\\query3196376\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Marilin\\Desktop\\practica 3\\query3196376\\WebForm1.aspx",
               "RelativeToolTip": "WebForm1.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-03-06T01:02:29.734Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
